@@ -5159,9 +5159,9 @@ pusher-feeds-client@^0.9.1:
   dependencies:
     pusher-platform "^0.8.0-alpha.3"
 
-pusher-feeds-server@^0.5.0:
-  version "0.5.0"
-  resolved "https://registry.yarnpkg.com/pusher-feeds-server/-/pusher-feeds-server-0.5.0.tgz#719ff7c5f942098b26f95ebb64b4e04966278fb5"
+pusher-feeds-server@^0.7.0:
+  version "0.7.0"
+  resolved "https://registry.yarnpkg.com/pusher-feeds-server/-/pusher-feeds-server-0.7.0.tgz#93661ac227e28cbe25491dc4b32afa3cb88a6517"
   dependencies:
     babel-runtime "^6.23.0"
     jsonwebtoken "^7.4.1"
